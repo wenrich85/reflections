@@ -1,0 +1,7 @@
+using "diff-u" in the the terminal significantly reduced the time needed to troubleshoot the problem with the files. This will be especially helpful in the future since i have fat fingers and make mistakes often.
+Having easy access to entire history of files would make me more efficent because i could easily go back and pin point what did and didn't work. 
+The Pros to manually saving git files are that you can make logical commits that will not only make sense but also be functional vs using an automatic tool that saves at random points. However the biggiest con is that developers may forget to save and end up losing lots of work.
+Git allows for changing multiple files because its designed for coders and developers while google docs was geered more towards office work and collaboration within a single file.
+You can use the cmd git log to see all of the commits in a repository. You can use git diff to see the differnt changes between commits.
+Using version control would make me more comfortable making changes because i know that i could always revert back to a working copy.
+Im not sure what i want to start using git for. It seems to be useful for sooo many things. I still need to learn more, but i'll deffintely be using it for error checking.

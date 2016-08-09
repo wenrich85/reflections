@@ -1,0 +1,2 @@
+A .git folder is added when you initialize a repository. I think you need it for version control?
+The staging area is probably a more secure area than the working directory and it is for completed versions of files.
